@@ -1,0 +1,17 @@
+{
+  "name": "zodiacapp",
+  "version": "1.0.0",
+  "description": "making zodiac app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "shuvam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
